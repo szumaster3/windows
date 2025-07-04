@@ -20,24 +20,6 @@ Fork of 2009Scape client and server packaged for singleplayer use.
 - Server: https://gitlab.com/rspsdev/530-server
 - Client: https://gitlab.com/2009scape
 
-## Links
-
-- Editor: https://github.com/szumaster3/cache-editor
-
-# FAQ
-
-## Admin Mode
-
-To enable admin mode:
-1. Open `game/worldprops/default.conf`.
-2. Change `noauth_default_admin = false` to `true`.
-
-## Skip Tutorial Island (Temporary)
-
-1. Start a conversation with the Guide.
-2. Move to interrupt/close the dialogue interface.
-3. Type the command `::exit`.
-
 ***
 
 *Non-commercial preservation project. Original content belongs to respective owners.*
