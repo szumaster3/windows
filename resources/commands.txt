@@ -1,0 +1,154 @@
+| Command            | Description                                                            |
+|--------------------|------------------------------------------------------------------------|
+| ::reloadplugins    | Reloads the current active plugins.                                    |
+| ::highscores       | Brings the user to 2009Scape.org's high scores page.                   |
+| ::xface            | Allows you to exit the currently opened interface.                     |
+| ::npcsearch        | Allows to search NPCs                                                  |
+| ::playsong         | Allows you to play the soundtrack.                                     |
+| ::loc              | Shows information about your current location.                         |
+| ::rules            | Showing live server rules scroll.                                      |
+| ::reply            | Opens a reply prompt to your last DM, same as pressing TAB.            |
+| ::muteglobal       | Toggle global chat on or off.                                          |
+| ::geprivacy        | Hides your nickname when selling at the Grand Exchange.                |
+| ::resetpassword    | Change password command, first write current password then new.        |
+| ::quests           | Shows the list of implemented quests.                                  |
+| ::calc_accuracy    | Calculates and shows your current chance to hit a given NPC.           |
+| ::calcmaxhit       | Calculates and shows you your current max hit.                         |
+| ::region           | Shows region ID.                                                       |
+| ::shop             | Open credits shop.                                                     |
+| ::ge               | Various commands for viewing Grand exchange offers.                    |
+| ::debug            | Toggle debug mode.                                                     |
+| ::playjingle       | Last chance to get out of bronze.                                      |
+| ::1hit             | 1hit command.                                                          |
+| ::addcredits       | Add credits.                                                           |
+| ::addxp            | Add experience points.                                                 |
+| ::allmusic         | Unlock all music.                                                      |
+| ::allowaggro       | Allow aggro from NPCs.                                                 |
+| ::allquest         | Unlock all quests.                                                     |
+| ::anim             | Use an animation.                                                      |
+| ::announce         | Broadcast a message.                                                   |
+| ::appearance       | Change appearance.                                                     |
+| ::audio            | Control audio settings.                                                |
+| ::ban              | Ban a player.                                                          |
+| ::bank             | Open the bank.                                                         |
+| ::barrage          | Cast a barrage spell.                                                  |
+| ::botinfo bot_name | Get information about a bot.                                           |
+| ::bury             | Bury an item.                                                          |
+| ::cancelupdate     | Cancel the current update.                                             |
+| ::charge           | Charge an item or spell.                                               |
+| ::cleardiary       | Clear the diary.                                                       |
+| ::clearjob         | Clear job/task.                                                        |
+| ::commands         | List all available commands.                                           |
+| ::completediaries  | Complete all diaries.                                                  |
+| ::coords           | Show your current coordinates.                                         |
+| ::cs2              | Perform a CS2 script.                                                  |
+| ::csvmodcr         | Perform CSV modification.                                              |
+| ::datamap          | Display the data map.                                                  |
+| ::define_varbit    | Define a varbit.                                                       |
+| ::drawchunks       | Draw chunks in the world.                                              |
+| ::drawclipping     | Draw clipping data.                                                    |
+| ::drawintersect    | Draw intersection points.                                              |
+| ::drawregions      | Draw regions in the game.                                              |
+| ::drawroute        | Draw the route of movement.                                            |
+| ::dumpappearance   | Dump the current appearance data.                                      |
+| ::dumpdatamaps     | Dump the data maps.                                                    |
+| ::dumpstructs      | Dump the game structures.                                              |
+| ::empty            | Empty an inventory or container.                                       |
+| ::emptybank        | Empty the bank.                                                        |
+| ::expression       | Control the player expression.                                         |
+| ::farmkit          | Access farming kit.                                                    |
+| ::findobj          | Find an object.                                                        |
+| ::finishbins       | Finish the bins task.                                                  |
+| ::finishtask       | Finish the current task.                                               |
+| ::fmanim           | Perform firemaking animation.                                          |
+| ::fmend            | End firemaking.                                                        |
+| ::fmspeed          | Change firemaking speed.                                               |
+| ::fmspeedend       | End firemaking speed boost.                                            |
+| ::fmstart          | Start firemaking.                                                      |
+| ::getattribute     | Get an attribute of an object.                                         |
+| ::getnpcparent     | Get the parent of an NPC.                                              |
+| ::getobjectvarp    | Get the varp of an object.                                             |
+| ::getvarbit        | Get the varbit value.                                                  |
+| ::giveitem         | Give an item to yourself.                                              |
+| ::globalaudio      | Control global audio settings.                                         |
+| ::god              | Toggle god mode.                                                       |
+| ::grow             | Grow a plant or object.                                                |
+| ::home             | Teleport to home.                                                      |
+| ::iface             | Interface management command.                                         |
+| ::iftriggers       | Manage interface triggers.                                             |
+| ::infinitespecial  | Activate infinite special.                                             |
+| ::interface        | Show interface screen.                                                 |
+| ::invis            | Become invisible.                                                      |
+| ::ipban            | Ban a player by IP.                                                    |
+| ::item              | Add or manage items.                                                  |
+| ::itemsearch       | Search for an item.                                                    |
+| ::jail             | Jail a player.                                                         |
+| ::kick             | Kick a player from the game.                                           |
+| ::killme           | Kill your character.                                                   |
+| ::listifmodels     | List interface models.                                                 |
+| ::listiftext       | List interface texts.                                                  |
+| ::log              | Display log information.                                               |
+| ::loopanim         | Start looping an animation.                                            |
+| ::makeover         | Perform a makeover.                                                    |
+| ::mapredo          | Redo the map.                                                          |
+| ::max              | Set the max level for stats.                                           |
+| ::modcr            | Modify a character.                                                    |
+| ::model            | Display or change models.                                              |
+| ::movcam           | Move the camera.                                                       |
+| ::mrboneswildride  | Start the Mr. Bones Wild Ride.                                         |
+| ::mute             | Mute a player.                                                         |
+| ::noobme           | Make your character a noob.                                            |
+| ::npc              | Spawn an NPC.                                                          |
+| ::npcanim          | Set an NPC animation.                                                  |
+| ::object           | Interact with an object.                                               |
+| ::objectgrid       | Show the object grid.                                                  |
+| ::overlay          | Show overlay information.                                              |
+| ::players          | List current players online.                                           |
+| ::playid           | Play an ID.                                                            |
+| ::pnpc             | Set a player NPC.                                                      |
+| ::poscam           | Position the camera.                                                   |
+| ::potato           | Interact with potatoes or related item.                                |
+| ::quest            | Start a quest.                                                         |
+| ::quests           | List all quests.                                                       |
+| ::ranim            | Run an animation.                                                      |
+| ::region           | Display region information.                                            |
+| ::removeitem       | Remove an item from your inventory.                                    |
+| ::removeitemall    | Remove all items from your inventory.                                  |
+| ::resetanim        | Reset animation state.                                                 |
+| ::resetbins        | Reset bins task.                                                       |
+| ::resetcam         | Reset camera state.                                                    |
+| ::rolldrops        | Roll for item drops.                                                   |
+| ::rolltrawlerloot  | Roll for trawler loot.                                                 |
+| ::rotcam           | Rotate camera.                                                         |
+| ::rules            | Display server rules.                                                  |
+| ::runekit          | Access rune kit.                                                       |
+| ::sconfigrange     | Configure range settings.                                              |
+| ::sconfigrange0    | Configure range settings to zero.                                      |
+| ::script           | Run a script.                                                          |
+| ::scripts          | List available scripts.                                                |
+| ::setattribute     | Set an attribute of an object.                                         |
+| ::setlevel         | Set a player's level.                                                  |
+| ::setpasswordother | Set another player's password.                                         |
+| ::setplaqueread    | Set the plaque read status.                                            |
+| ::setqueststage    | Set the quest stage.                                                   |
+| ::setslayerpoints  | Set slayer points.                                                     |
+| ::setslayertask    | Set a slayer task.                                                     |
+| ::setvarbit        | Set the varbit value.                                                  |
+| ::setvarc          | Set the varc value.                                                    |
+| ::setvarp          | Set the varp value.                                                    |
+| ::shakecam         | Shake the camera.                                                      |
+| ::skip             | Skip the current task.                                                 |
+| ::spellbook        | Change spellbook.                                                      |
+| ::stats            | Show stats information.                                                |
+| ::stopscript       | Stop a running script.                                                 |
+| ::struct           | Show game structures.                                                  |
+| ::tele             | Teleport to a location.                                                |
+| ::teleobj          | Teleport to an object.                                                 |
+| ::teleto           | Teleport to a player.                                                  |
+| ::teletome         | Teleport to me.                                                        |
+| ::testfm           | Test firemaking.                                                       |
+| ::testpacket       | Test packet functionality.                                             |
+| ::timers           | Display timers.                                                        |
+| ::to               | Send a message to a player.                                            |
+| ::update           | Update a setting.                                                      |
+| ::varbits          | Display varbit information.                                            |
