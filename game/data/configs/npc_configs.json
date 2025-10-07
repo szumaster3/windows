@@ -14789,7 +14789,7 @@
     "attack_level": "17"
   },
   {
-    "examine": "",
+    "examine": "An apocolyptic demon./A freshly summoned demon.",
     "melee_animation": "64",
     "attack_speed": "4",
     "magic_level": "1",
@@ -14807,7 +14807,7 @@
     "attack_level": "1"
   },
   {
-    "examine": "",
+    "examine": "An apocolyptic demon./A freshly summoned demon.",
     "name": "Weakened Delrith",
     "defence_level": "1",
     "safespot": null,
@@ -15597,7 +15597,9 @@
     "strength_level": "1",
     "attack_speed": "4",
     "id": "929",
+    "lifepoints": "5",
     "aggressive": "false",
+    "magic_level": "65",
     "magic_level": "1",
     "range_level": "1",
     "attack_level": "1"
@@ -15610,8 +15612,10 @@
     "strength_level": "1",
     "attack_speed": "4",
     "id": "930",
+    "lifepoints": "27",
+    "strength_level": "1",
     "aggressive": "false",
-    "magic_level": "1",
+    "magic_level": "65",
     "range_level": "1",
     "attack_level": "1"
   },
@@ -72633,7 +72637,7 @@
     "attack_level": "1"
   },
   {
-    "examine": "",
+    "examine": "A woman busily panning.",
     "name": "Nisha",
     "defence_level": "1",
     "safespot": null,
