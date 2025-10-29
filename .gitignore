@@ -1,1 +1,3 @@
 game/plugins/*
+game/data/players/*
+game/data/playerstats/*
