@@ -1,3 +1,5 @@
 game/plugins/*
 game/data/players/*
 game/data/playerstats/*
+game/data/logs/*
+game/worldprops/*
